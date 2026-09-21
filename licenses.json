@@ -8,6 +8,12 @@
                      "hash":  "aQVtiTPf/b2fSZzMWiyrZyGtVrjgKhOxYQrb90bG0DU=",
                      "created":  "2026-09-21",
                      "revoked":  false
+                 },
+                 {
+                     "id":  "Lopotichat",
+                     "hash":  "GcZ4KJlFzoidSdTRsPtxh34mu9rR+CGHDxpXrxgAJOg=",
+                     "created":  "2026-09-21",
+                     "revoked":  false
                  }
              ]
 }
