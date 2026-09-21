@@ -1,0 +1,13 @@
+{
+    "version":  1,
+    "iterations":  100000,
+    "salt":  "a5gqt52fK+fRnG5TWVuHcw==",
+    "keys":  [
+                 {
+                     "id":  "Test",
+                     "hash":  "aQVtiTPf/b2fSZzMWiyrZyGtVrjgKhOxYQrb90bG0DU=",
+                     "created":  "2026-09-21",
+                     "revoked":  false
+                 }
+             ]
+}
