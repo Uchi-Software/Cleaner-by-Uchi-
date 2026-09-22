@@ -1,0 +1,13 @@
+{
+    "version":  1,
+    "iterations":  100000,
+    "salt":  "QEQOPOCB3mRLonNSmge8vQ==",
+    "keys":  [
+                 {
+                     "id":  "VM-TEST",
+                     "hash":  "3+lp3xF6USkYdRqZfMOZ523wjs8OVEzp59xFVWi9xio=",
+                     "created":  "2026-09-22",
+                     "revoked":  false
+                 }
+             ]
+}
