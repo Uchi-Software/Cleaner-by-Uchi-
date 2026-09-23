@@ -8,6 +8,13 @@
                      "hash":  "lyRnqjXVARjGJ2kdYoUVNqb2EPGNjbvlH3w+LSRYgsA=",
                      "created":  "2026-09-23",
                      "revoked":  false
+                 },
+                 {
+                     "email":  "contact@uchi-software.com",
+                     "hash":  "teIh36zyO5Cvxm93JhXm95v+4JO1ljUfKL4nJKJu/UA=",
+                     "created":  "2026-09-23",
+                     "revoked":  false,
+                     "expires":  "2026-10-23"
                  }
              ]
 }
