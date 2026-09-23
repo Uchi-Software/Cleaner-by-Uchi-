@@ -1,0 +1,17 @@
+@"
+# Binaires compilés — publiés en Release, jamais commités
+*.exe
+
+# Outil admin et données privées — jamais sur le repo public
+Gestion des clés Uchi.ps1
+Gestion de licences.exe
+Registre JSON/
+Licences/
+
+# Build C#
+bin/
+obj/
+
+# Divers
+*.log
+"@ | Set-Content -Encoding utf8 (Join-Path $dst ".gitignore")
