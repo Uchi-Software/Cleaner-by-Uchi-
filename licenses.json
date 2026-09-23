@@ -1,0 +1,13 @@
+{
+    "version":  2,
+    "iterations":  100000,
+    "salt":  "yftSy2xk+1D1eRHR4wWxuQ==",
+    "keys":  [
+                 {
+                     "email":  "contact@uchi-software.fr",
+                     "hash":  "lyRnqjXVARjGJ2kdYoUVNqb2EPGNjbvlH3w+LSRYgsA=",
+                     "created":  "2026-09-23",
+                     "revoked":  false
+                 }
+             ]
+}
